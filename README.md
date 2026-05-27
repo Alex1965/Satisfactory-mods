@@ -45,17 +45,28 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 
 <hr>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/FlareStackv1.0SMRMD.png" alt="Industrial Flare Stack" width="200%">
+  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/FlareStackv1.0SMRMD.png" alt="Industrial Flare Stack" width="100%">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Flare Stack v 1.0.webp" alt="Flare Stack Animation" width="100%">
 </p>
+
 <h2><font color="#ff8e3c">🛰️ PROJECT ROADMAP</font></h2>
 <ul>
 <li> <b>V1.0 (Current):</b> Initial Release. Static Drain logic, Wwise Audio, and 3D-modeled gauges.
 <br><i>Known Limitations: Non-paintable surfaces; minor shadow errors on Superheater.</i></li>
 <li> <b>V1.1 (Planned):</b> <b>The Sensing Update.</b> Introduction of the JTRONICX External Sensor Valve (Pressure-Aware automated logic), paintable surfaces, and 14 dynamic steam injector Niagara VFX tied to fuel burn rates.</li>
 <li> <b>V2.0 (Future):</b> <b>The Treatment Update.</b> Blender-native Condensate Treatment Plant for byproduct recycling.</li>
+</ul>
+
+<hr>
+
+<h2><font color="#ff8e3c">🙌 ACKNOWLEDGEMENTS</font></h2>
+<p>A very special thank you to the pillars of the Satisfactory modding community for their invaluable tools, documentation, and troubleshooting assistance on Discord:</p>
+<ul>
+<li> <b>Robb</b> – For endless dedication to documentation and structural guidance.</li>
+<li> <b>Archengius</b> – For paving the way with complex script implementations.</li>
+<li> <b>AngryBeaver</b> – For keeping the foundational modding framework rock-solid.</li>
 </ul>
 
 <hr>

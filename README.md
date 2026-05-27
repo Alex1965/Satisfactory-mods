@@ -22,6 +22,12 @@ While I am not a professional game designer, I am a professional industrial mach
 
 <hr>
 
+<h2><font color="#ff8e3c">📦 INSTALLATION</font></h2>
+
+This mod cannot be installed manually via GitHub source files. 
+<br><br>
+To install, download the official <b><a href="https://ficsit.app/guide/9mD6G768gYisAs">Satisfactory Mod Manager (SMM)</a></b>, search for <code>FlareStack</code>, and click install. The manager will automatically handle all required dependencies.
+
 <hr>
 
 <h2><font color="#ff8e3c">⚠️ BYPRODUCT: CONDENSATE</font></h2>

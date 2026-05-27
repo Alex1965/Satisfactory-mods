@@ -49,7 +49,9 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
     <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/FlareStackv1.0.png" alt="Industrial Flare Stack" width="100%">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/images/Flare Stack v 1.0.webp" alt="Flare Stack Animation" width="100%">
+</p>
 <h2><font color="#ff8e3c">🛰️ PROJECT ROADMAP</font></h2>
 <ul>
 <li> <b>V1.0 (Current):</b> Initial Release. Static Drain logic, Wwise Audio, and 3D-modeled gauges.

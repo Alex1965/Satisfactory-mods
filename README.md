@@ -26,7 +26,7 @@ While I am not a professional game designer, I am a professional industrial mach
 
 This mod cannot be installed manually via GitHub source files. 
 <br><br>
-To install, download the official <b><a href="https://ficsit.app/guide/9mD6G768gYisAs">Satisfactory Mod Manager (SMM)</a></b>, search for <code>FlareStack</code>, and click install. The manager will automatically handle all required dependencies.
+To install, download the official <b><a href="https://ficsit.app/guide/9mD6G768gYisAs">Satisfactory Mod Manager (SMM)</a></b>, search for <code>FlareStack</code>, and click install. The manager will automatically handle all required dependencies (SML).
 
 <hr>
 

@@ -1,5 +1,3 @@
-# Satisfactory-mods
-# Satisfactory-mods
 <h1 align="center"><font color="#ff8e3c">INDUSTRIAL FLARE STACK</font></h1>
 
 <blockquote><font color="#ff8e3c"><b>A.D.A. NOTICE:</b></font> "Pioneer, your downstream consumption has reached a state of terminal saturation. To prevent a total hydrostatic seizure of your refinery infrastructure, FICSIT Inc. has authorized the <b>Industrial Flare Stack</b> to convert your excess energy into atmospheric waste. It is an inefficient sacrifice, but a necessary one. The flame is the only thing standing between you and a dead factory. Burn the surplus. Save the system. <br><br>The Industrial Flare Stack facilitates the rapid conversion of your logistical failures into atmospheric pollutants. Note: Planetary heating is within acceptable corporate parameters. Your breathing remains a secondary priority."</blockquote>

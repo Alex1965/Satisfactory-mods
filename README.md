@@ -46,7 +46,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/images/FlareStackv1.0.png" alt="Industrial Flare Stack" width="100%">
+  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/Master/images/FlareStackv1.0.png" alt="Industrial Flare Stack" width="100%">
 </p>
 
 

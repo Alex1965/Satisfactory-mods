@@ -47,9 +47,9 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <li> <b>Gauges:</b> <b>GAS</b> fuel burn rate in m³/sec. <b>WATER</b> water consumption in m³/sec. <b>GUARD</b> shows if guard flame is active. <b>CONDENSATE</b> internal buffer level of condensate in m³ (max capacity 100m³).</li>
 <li> <b>The Valve Toggle:</b> Install a <b>Valve</b> on the feedline to act as a manual remote switch. Open it only when your system backs up; close it once the line pressure is relieved. This prevents you from having to manually toggle the building at the stack itself.</li>
 <li> <b>Safety:</b> Use the <b>Crouch (C)</b> key on the final maintenance stair to access the lower deck without sustaining cranial trauma.</li>
-<b>Help/Questions:</b> Contact me on Discord: <b>xpsion</b> for questtions or issues.
 </ul>
-
+<br><br>
+<b>Help/Questions:</b> Contact me on Discord: <b>xpsion</b> for questtions or issues.
 <hr>
 
 <p align="center">

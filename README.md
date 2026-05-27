@@ -33,7 +33,9 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 
 <h2><font color="#ff8e3c">🛠️ GETTING STARTED & USAGE</font></h2>
 
-<b>Unlock:</b> HUB Milestone <b>Tier 8</b>. 
+<b>Unlock:</b> HUB Milestone <b>Tier 8</b> under the group <b>"Industrial Process Control"</b>. 
+<br><br>
+<b>Build Menu Location:</b> Found under the <b>Logistics</b> tab, inside the <b>Group 8: Process Control</b> category.
 <br><br>
 <b>Static Drain Logic:</b> In V1.0, the Flare Stack functions as a manual relief machine. It will draw fluid immediately upon connection.
 
@@ -44,6 +46,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 </ul>
 
 <hr>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/FlareStackv1.0SMRMD.png" alt="Industrial Flare Stack" width="100%">
 </p>
@@ -62,11 +65,11 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <hr>
 
 <h2><font color="#ff8e3c">🙌 ACKNOWLEDGEMENTS</font></h2>
-<p>A very special thank you to the pillars of the Satisfactory modding community for their invaluable tools, documentation, and troubleshooting assistance on Discord:</p>
+<p>A massive thank you to the core members of the Satisfactory modding Discord who stepped up with critical help and support whenever I hit a wall and couldn't find a solution:</p>
 <ul>
-<li> <b>Robb</b> – For endless dedication to documentation and structural guidance.</li>
-<li> <b>Archengius</b> – For paving the way with complex script implementations.</li>
-<li> <b>AngryBeaver</b> – For keeping the foundational modding framework rock-solid.</li>
+<li> <b>Robb</b> – Without the SML Modding documentation, creating a mod from scratch would be an insurmountable wall.</li>
+<li> <b>Archengius</b> – For providing code clarity when script overrides wouldn't behave.</li>
+<li> <b>AngryBeaver</b> – For helping unblock backend issues to keep development moving forward.</li>
 </ul>
 
 <hr>

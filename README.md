@@ -63,7 +63,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <li> <b>V1.0 (Current):</b> Initial Release. Static Drain logic, Wwise Audio, and 3D-modeled gauges.
 <br><i>Known Limitations: Non-paintable surfaces; minor shadow errors on Superheater.</i></li>
 <li> <b>V1.1 (Planned):</b> <b>The Sensing Update.</b> Introduction of the JTRONICX External Sensor Valve (Pressure-Aware automated logic), paintable surfaces, and 14 dynamic steam injector Niagara VFX tied to fuel burn rates.</li>
-<li> <b>V2.0 (Future):</b> <b>The Treatment Update.</b> CAD-engineered Condensate Treatment Plant utilizing a thermal cracker unit for advanced byproduct recycling (Designed in Autodesk Inventor Pro).</li>
+<li> <b>V2.0 (Future):</b> <b>The Treatment Update.</b> Condensate Treatment Plant utilizing a thermal cracker unit for advanced byproduct recycling.</li>
 </ul>
 
 <hr>

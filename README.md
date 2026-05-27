@@ -11,10 +11,12 @@
 
 The <b>Industrial Flare Stack</b> is a high-capacity relief unit designed to vent excess combustible liquids and gases to prevent production stalls. 
 
+Unlike standard polygonal game assets, this model has been <b>fully engineered from the ground up in Autodesk Inventor Pro</b>, bringing true parametric CAD precision, realistic structural proportions, and crisp industrial lines into your factory layout.
+
 <ul>
 <li> <b>Max Consumption:</b> 250 m³/min.</li>
 <li> <b>Audio:</b> Custom <b>Wwise</b> integration with a 9s pressure spool-up.</li>
-<li> <b>Visuals:</b> BlackBody thermal shaders and real-time Analog/Digital machine status gauges.</li>
+<li> <b>Visuals:</b> Real-time Analog/Digital machine status gauges and BlackBody thermal shaders.</li>
 <li> <b>Burnable Feedstock:</b> Crude Oil, Heavy Oil Residue (HOR), Fuel, Turbo Fuel, Biofuel, Rocket Fuel, and Ionized Rocket Fuel.</li>
 </ul>
 

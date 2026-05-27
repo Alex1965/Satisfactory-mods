@@ -49,7 +49,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <li> <b>Safety:</b> Use the <b>Crouch (C)</b> key on the final maintenance stair to access the lower deck without sustaining cranial trauma.</li>
 </ul>
 <br>
-<b>Help/Questions:</b> Contact me on Discord: <b>xpsion</b> for questtions or issues.
+<b>Help/Questions:</b> Contact me on Discord: <b>xpsion</b> for questions or issues.
 <hr>
 
 <p align="center">

@@ -48,7 +48,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <li> <b>The Valve Toggle:</b> Install a <b>Valve</b> on the feedline to act as a manual remote switch. Open it only when your system backs up; close it once the line pressure is relieved. This prevents you from having to manually toggle the building at the stack itself.</li>
 <li> <b>Safety:</b> Use the <b>Crouch (C)</b> key on the final maintenance stair to access the lower deck without sustaining cranial trauma.</li>
 </ul>
-<br><br>
+<br>
 <b>Help/Questions:</b> Contact me on Discord: <b>xpsion</b> for questtions or issues.
 <hr>
 

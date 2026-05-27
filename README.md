@@ -12,7 +12,7 @@
 
 The <b>Industrial Flare Stack</b> is a high-capacity relief unit designed to vent excess combustible liquids and gases to prevent production stalls.
 
-While I am not a professional game designer, I am a professional industrial machine designer. This model was fully engineered from the ground up in Autodesk Inventor Pro to ensure real-world parametric CAD precision and functional structural logic. To bridge the gap into a AAA game environment like Satisfactory, the asset underwent a massive optimization pipeline in Blender, decimating the high-density CAD geometry from 34 million polygons down to approximately 673,000 faces to guarantee rock-solid game performance.
+While I am not a professional game designer, I am a professional industrial machine designer. This model was fully engineered from the ground up in Autodesk Inventor Pro to ensure real-world parametric CAD precision and functional structural logic. To bridge the gap into a AAA game environment like Satisfactory, the asset underwent a massive optimization pipeline in Blender, decimating the high-density CAD geometry from 34 million polygons down to approximately 673,000 faces to guarantee solid game performance.
 
 <ul>
 <li> <b>Max Consumption:</b> 250 m³/min.</li>

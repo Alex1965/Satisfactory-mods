@@ -11,11 +11,17 @@
   
 * **Note:** Back-up your save files and install a local version of Satisfactory 1.1 so you can continue enjoying mods while awaiting new SML/SMR release for 1.2
 
+### 🤖 AI Attribution & Technology Disclosure
+The custom ADA voice lines included in this update were generated using synthetic voice technology. 
+* **Methodology:** A 12-second clean baseline sample of the in-game ADA voice was used to train a local instance of **Voicebox** utilizing the **Qwen3-TTS** architecture.
+* **Purpose:** This asset was generated strictly for non-commercial, transformative community modding use to extend the in-game immersion of the Industrial Flare Stack framework. 
+* **Content Creators:** If you are streaming or uploading video footage of this mod to platforms like YouTube, please ensure you check the "Altered or Synthetic Content" disclosure box within your platform's upload settings to remain fully compliant with their synthetic media policies.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Control_Panel_Condensate_Unit5.png" alt="Condensate Unit Control Panel" width="100%">
   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Control_Panel_Condensate_Unit3.png" alt="Condensate Unit Control Panel" width="100%">
 </p>
----
+
 ### 🤖 AI Attribution & Technology Disclosure
 The custom ADA voice lines included in this update were generated using synthetic voice technology. 
 * **Methodology:** A 12-second clean baseline sample of the in-game ADA voice was used to train a local instance of **Voicebox** utilizing the **Qwen3-TTS** architecture.

@@ -12,5 +12,6 @@
 * **Note:** Back-up your save files and install a local version of Satisfactory 1.1 so you can continue enjoying mods while awaiting new SML/SMR release for 1.2
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Condensate_Panel.png" alt="Condensate Unit Control Panel" width="100%">
+  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Control_Panel_Condensate_Unit1.png" alt="Condensate Unit Control Panel" width="100%">
+  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Control_Panel_Condensate_Unit5.png" alt="Condensate Unit Control Panel" width="100%">
 </p>

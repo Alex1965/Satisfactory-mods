@@ -3,7 +3,7 @@
 ### 🔊 New ADA Voice Lines
 * **ADA voices implemented:** Added custom ADA voice lines and automated status messages.
 * **Industrial Alerts:** Automated warnings and updates from ADA will now play clearly across your factory floor.
-* **Delivery Method:** If you have already unlocked the Flare Stack recipe, ADA's introductory message will arrive directly in your In-Game Mailbox and play once upon opening you save file.
+* **Delivery Method:** If you have already unlocked the Flare Stack recipe, ADA's introductory message will arrive directly in your In-Game Mailbox and play once upon opening your save file.
 
 ### 🏗️ Visual Teaser: The Condensate Control Panel
 * **New Dashboard Installed:** A physical Condensate Control Panel has been added to the main model!

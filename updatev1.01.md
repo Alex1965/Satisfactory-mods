@@ -6,7 +6,7 @@
 
 ### 🏗️ Visual Teaser: The Condensate Control Panel
 * **New Dashboard Installed:** a physical Condensate Control Panel has been added to the main model!
-* **Coming Soon:** The actual implementation of the control panel logic is waiting for the upcoming game update (CSS push 1.2 to stable version); new modding tools (SML/SMR) required as 1.2 shifts to UE 5.6.1. Enjoy the preview!
+* **Coming Soon:** With the actual implementation of the control panel logic I am waiting for the upcoming game update (CSS push 1.2 to stable version); new modding tools (SML/SMR) required as 1.2 shifts to UE 5.6.1. Enjoy the preview!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Condensate_Panel.png" alt="Condensate Unit Control Panel" width="100%">

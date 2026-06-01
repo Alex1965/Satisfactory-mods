@@ -13,5 +13,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Control_Panel_Condensate_Unit5.png" alt="Condensate Unit Control Panel" width="100%">
-  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Control_Panel_Condensate_Unit1.png" alt="Condensate Unit Control Panel" width="100%">
+  <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Control_Panel_Condensate_Unit3.png" alt="Condensate Unit Control Panel" width="100%">
 </p>

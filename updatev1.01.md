@@ -1,4 +1,4 @@
-## Industrial Flare Stack Update Log - Version 1.01
+<h2 style="color: #FF9900;">Industrial Flare Stack Update Log - Version 1.1.0</h2>
 
 ### 🔊 New ADA Voice Lines
 * **ADA voices implemented:** Added custom ADA voice lines and automated status messages.

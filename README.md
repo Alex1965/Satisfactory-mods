@@ -50,7 +50,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <b>Static Drain Logic:</b> In V1.0, the Flare Stack functions as a manual relief machine. It will draw fluid immediately upon connection.
 
 <ul>
-<li> <b>Gauges:</b> <b>GAS</b> fuel burn rate in m³/sec. <b>WATER</b> water consumption in m³/sec. <b>GUARD</b> shows if guard flame is active. <b>CONDENSATE</b> internal buffer level of condensate in m³ (max capacity 100m³).</li>
+<li> <b>Gauges:</b> <b>GAS</b> fuel burn rate in m³/min. <b>WATER</b> water consumption in m³/min. <b>GUARD</b> shows if guard flame is active. <b>CONDENSATE</b> internal buffer level of condensate in m³ (max capacity 100m³).</li>
 <li> <b>The Valve Toggle:</b> Install a <b>Valve</b> on the feedline to act as a manual remote switch. Open it only when your system backs up; close it once the line pressure is relieved. This prevents you from having to manually toggle the building at the stack itself.</li>
 <li> <b>Safety:</b> Use the <b>Crouch (C)</b> key on the final maintenance stair to access the lower deck without sustaining cranial trauma.</li>
 </ul>

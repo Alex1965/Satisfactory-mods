@@ -43,6 +43,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 
 <h2><font color="#ff8e3c">🛠️ GETTING STARTED & USAGE</font></h2>
 
+<b>Game  Video Settings:</b> VFX Setting:</b> ULTRA  (wip: VFX optimisation for HIGH, MEDIUM and LOW)</b>.<br><br>
 <b>Unlock:</b> HUB Milestone <b>Tier 8</b> under the group <b>"Industrial Process Control"</b>.
 <br><br>
 <b>Build Menu Location:</b> Found under the <b>Logistics</b> tab, inside the <b>Group 8: Process Control</b> category.

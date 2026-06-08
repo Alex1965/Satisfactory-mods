@@ -68,11 +68,15 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 
 <h2><font color="#ff8e3c">🛰️ PROJECT ROADMAP</font></h2>
 <ul>
-<li> <b>V1.0 (Current):</b> Initial Release. Static Drain logic, Wwise Audio, and 3D-modeled gauges.
-<br><i>Known Limitations: Non-paintable surfaces; minor shadow errors on Superheater. Dedicated Server support untested.</i></li>
-<li> <b>V1.1 (Planned):</b> <b>The Sensing Update.</b> Introduction of the JTRONICX External Sensor Valve (Pressure-Aware automated logic), paintable surfaces, and 14 dynamic steam injector Niagara VFX tied to fuel burn rates.</li>
-<li> <b>V2.0 (Future):</b> <b>The Treatment Update.</b> Condensate Treatment Plant utilizing a thermal cracker unit for advanced byproduct recycling.</li>
+<li><b>V1.0.0 (Released):</b> Initial Release. Static Drain logic, Wwise Audio, and 3D-modeled gauges.</li>
+<li><b>V1.1.0 (Released):</b> <b>The Voice & Interface Update.</b> Added ADA voice triggers and the static visual control panel.</li>
+<li><b>V1.2.0 (Current):</b> Compatibility Update. Tweaks and full optimization for the Satisfactory game update.
+<br><i>Known Limitations: Non-paintable surfaces; minor shadow errors on Superheater. Dedicated Server support untested. VFX currently requires ULTRA setting to render.</i></li>
+<li><b>V1.3.0 (Next):</b> <b>The Control Update.</b> Activating the physical control panel interface, full VFX scalability optimization (Ultra down to Low), and long-range telemetry performance tuning (500m to 10km LOD curves).</li>
+<li><b>V1.4.0 (Planned):</b> <b>The Sensing Update.</b> Introduction of the JTRONICX External Sensor Valve (Pressure-Aware automated logic), paintable surfaces, and 14 dynamic steam injector Niagara VFX tied to fuel burn rates.</li>
+<li><b>V2.0.0 (Future):</b> <b>The Treatment Update.</b> Condensate Treatment Plant utilizing a thermal cracker unit for advanced byproduct recycling.</li>
 </ul>
+
 
 <hr>
 

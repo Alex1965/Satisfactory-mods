@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2><font color="#ff8e3c">🏭 OVERVIEW</font></h2>
+<h2><font color="#ff8e3c">OVERVIEW</font></h2>
 
 The <b>Industrial Flare Stack</b> is a high-capacity relief unit designed to vent excess combustible liquids and gases to prevent production stalls.
 
@@ -23,7 +23,7 @@ While I am not a professional game developer, I am a professional industrial mac
 
 <hr>
 
-<h2><font color="#ff8e3c">📖 USER MANUAL & DOCUMENTATION</font></h2>
+<h2><font color="#ff8e3c">USER MANUAL & DOCUMENTATION</font></h2>
 
 <p>For comprehensive engineering specifications, advanced auto-tune procedures, troubleshooting guides, and full system equations, access the official documentation:</p>
 <ul>
@@ -32,7 +32,7 @@ While I am not a professional game developer, I am a professional industrial mac
 
 <hr>
 
-<h2><font color="#ff8e3c">⚙️ V1.4.1 CONTROLS, IGNITION & TELEMETRY</font></h2>
+<h2><font color="#ff8e3c">V1.4.1 CONTROLS, IGNITION & TELEMETRY</font></h2>
 
 <ul>
 <li> <b>Paintable Surfaces:</b> Fully paintable to match your factory color swatches.</li>
@@ -82,7 +82,7 @@ While I am not a professional game developer, I am a professional industrial mac
 
 <hr>
 
-<h2><font color="#ff8e3c">📦 INSTALLATION</font></h2>
+<h2><font color="#ff8e3c">INSTALLATION</font></h2>
 
 This mod cannot be installed manually via GitHub source files. 
 <br><br>
@@ -90,7 +90,7 @@ To install, download the official <b><a href="https://ficsit.app/guide/9mD6G768g
 
 <hr>
 
-<h2><font color="#ff8e3c">⚠️ BYPRODUCT: CONDENSATE</font></h2>
+<h2><font color="#ff8e3c">BYPRODUCT: CONDENSATE</font></h2>
 
 Incineration produces <b>Condensate</b>, a toxic liquid waste.
 
@@ -101,7 +101,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 
 <hr>
 
-<h2><font color="#ff8e3c">🛠️ GETTING STARTED & USAGE</font></h2>
+<h2><font color="#ff8e3c">GETTING STARTED & USAGE</font></h2>
 <b>Game Video Settings:</b> VFX Setting: ULTRA. <br><br>
 <b>Unlock:</b> HUB Milestone <b>Tier 8</b> under the group <b>"Industrial Process Control"</b>.
 <br><br>
@@ -123,7 +123,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
   <img src="https://raw.githubusercontent.com/Alex1965/Satisfactory-mods/main/Flare Stack v 1.0.webp" alt="Flare Stack Animation" width="100%">
 </p>
 
-<h2><font color="#ff8e3c">🛰️ PROJECT ROADMAP</font></h2>
+<h2><font color="#ff8e3c">PROJECT ROADMAP</font></h2>
 <ul>
 <li><b>V1.0.0 (Released):</b> Initial Release. Static Drain logic, Wwise Audio, and 3D-modeled gauges.</li>
 <li><b>V1.1.0 (Released):</b> <b>The Voice & Interface Update.</b> Added ADA voice triggers and the static visual control panel.</li>
@@ -136,7 +136,7 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 
 <hr>
 
-<h2><font color="#ff8e3c">🙌 ACKNOWLEDGEMENTS</font></h2>
+<h2><font color="#ff8e3c">ACKNOWLEDGEMENTS</font></h2>
 <p>A massive thank you to the core members of the Satisfactory modding Discord who stepped up with critical help and support whenever I hit a wall and couldn't find a solution:</p>
 <ul>
 <li> <b>Robb</b> – Without the SML Modding documentation, creating a mod from scratch would be an insurmountable wall.</li>

@@ -23,9 +23,7 @@ While I am not a professional game developer, I am a professional industrial mac
 
 <hr>
 
-<h2><font color="#ff8e3c">USER MANUAL & DOCUMENTATION</font></h2>
-
-<p>For comprehensive engineering specifications, advanced auto-tune procedures, troubleshooting guides, and full system equations, access the official documentation:</p>
+<h2><font color="#ff8e3c">USER MANUAL / documentation:</p>
 <ul>
   <li><b><a href="https://github.com/Alex1965/Satisfactory-mods/blob/0e6e1ff83ff837d6736c9213a6e73c19dfa3d64f/Industrial%20FlareStack%20MOD.pdf" target="_blank">Industrial Flare Stack v1.4.1 User Manual (PDF)</a></b></li>
 </ul>
@@ -126,11 +124,12 @@ Incineration produces <b>Condensate</b>, a toxic liquid waste.
 <h2><font color="#ff8e3c">PROJECT ROADMAP</font></h2>
 <ul>
 <li><b>V1.0.0 (Released):</b> Initial Release. Static Drain logic, Wwise Audio, and 3D-modeled gauges.</li>
-<li><b>V1.1.0 (Released):</b> <b>The Voice & Interface Update.</b> Added ADA voice triggers and the static visual control panel.</li>
+<li><b>V1.1.0 (Released):</b> <b>Voice & Interface Update.</b> Added ADA voice triggers and the static visual control panel.</li>
 <li><b>V1.2.0 (Released):</b> Compatibility Update. Wwise audio adjustments and patch fixes.</li>
-<li><b>V1.3.0 (Released):</b> <b>The Control Update.</b> Activating physical control panel interface framework and long-range telemetry performance tuning.</li>
-<li><b>V1.4.0 & V1.4.1 (Current):</b> <b>The Sensing & Ignition Update + Polish.</b> Paintable surfaces, 14-nozzle steam injector extension, full control panel management, advanced interaction menus, manual/auto ignition sequences with hazard mechanics, low fuel indicators, pressure knob dual-time displays, smoke dwell time controls, smart T-junction placement with 60-70s slosh-aware auto-tuning, RGB config menu for gauge/panel lighting, slope/Kp UI tuning parameters, FSPID config-driven log generation, input flange visual confirmation fix, recipe corrections/ordering, and state retention on game save/load.
+<li><b>V1.3.0 (Released):</b> <b>Control Update.</b> Activating physical control panel interface framework and long-range telemetry performance tuning.</li>
+<li><b>V1.4.0(Released):</b> <b>Sensing & Ignition Update</b> Paintable surfaces, 14-nozzle steam injector extension, full control panel management, advanced interaction menus, manual/auto ignition sequences with hazard mechanics, low fuel indicators, pressure knob dual-time displays, smoke dwell time controls, smart T-junction placement with 60-70s slosh-aware auto-tuning, RGB config menu for gauge/panel lighting, slope/Kp UI tuning parameters, FSPID config-driven log generation, 
 <br><i>Known Limitations: Dedicated Server support untested. VFX currently requires ULTRA setting to render.</i></li>
+<li><b>V1.4.1(Current):</b> <b>Fixes.</b>input flange visual confirmation fix, recipe corrections/ordering, and state retention on game save/load.</li> 
 <li><b>V2.0.0 (Future):</b> <b>The Treatment Update.</b> Condensate Treatment Plant utilizing a thermal cracker unit for advanced byproduct recycling.</li>
 </ul>
 
